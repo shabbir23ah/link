@@ -1,0 +1,80 @@
+{
+  "name": "Shah Shabbir Ahmmed",
+  "bio": "Hi 👋, I'm Shah Shabbir Ahmmed, A passionate Backend & DevOps Engineer from Bangladesh!",
+  "images": {
+    "avatar": "image.png",
+    "banner": "banner.webp",
+    "hover_change": true,
+    "onHover_avatar": "animated_avatar.gif"
+  },
+  "background": "#f5f5f5",
+  "location": "New York, USA",
+  "website": "link-z.vercel.app",
+  "site_url": "https://link-z.vercel.app",
+  "buttons": {
+    "display": true,
+    "items": [{"label": "Message"},{"label": "Follow"},{"label": "Posts"}]
+  },
+  "footer": {
+    "display": false,
+    "text": "Your footer text goes here"
+  },
+  "contacts": {
+    "display": true,
+    "items": [
+      { "label": "Mail", "url": "mailto:shabbir29ah@mail.com" },
+      { "label": "Whatsapp", "url": "https://wa.me/8801581729554" },
+      { "label": "Telegram", "url": "t.me/@orkpo23" },
+      { "label": "Skype", "url": "https://www.skype.com" },
+    ]
+  },
+  "socials": {
+    "display": true,
+    "items": [
+      { "label": "Twitter", "url": "https://twitter.com/orkpo15" },
+      { "label": "Discord", "url": "https://www.discord.com" },
+      { "label": "Github", "url": "https://github.com/shabbir23ah" },
+      { "label": "Instagram", "url": "https://www.instagram.com" },
+      { "label": "Linkedin", "url": "https://linkedin.com/in/shabbir23/" },
+      { "label": "Mastodon", "url": "https://mastodon.social/@shabbir1" },
+
+    ]
+  },
+  "designs": {
+    "display": false,
+    "items": [
+      { "label": "Behance", "url": "https://www.behance.com" },
+      { "label": "Dribble", "url": "https://www.dribble.com" },
+      { "label": "Figma", "url": "https://www.figma.com" }
+    ]
+  },
+  "wallets": {
+    "display": falses,
+    "items": [
+      { "label": "Paypal", "url": "https://www.paypal.com" },
+      { "label": "Venmo", "url": "https://www.venmo.com" },
+      { "label": "Cashapp", "url": "https://www.cashapp.com" },
+      { "label": "Bitcoin", "url": "https://www.bitcoin.com" },
+      { "label": "Ethereum", "url": "https://www.ethereum.com" }
+    ]
+  },
+  "gaming_profiles": {
+    "display": false,
+    "items": [
+      { "label": "Steam", "url": "https://www.steam.com" },
+      { "label": "Epic Games", "url": "https://www.epicgames.com" },
+      { "label": "Origin", "url": "https://www.origin.com" },
+      { "label": "Battle.net", "url": "https://www.battle.net" },
+      { "label": "Uplay", "url": "https://www.uplay.com" },
+      { "label": "Xbox", "url": "https://www.xbox.com" },
+      { "label": "Playstation", "url": "https://www.playstation.com" },
+      { "label": "Twitch", "url": "https://www.twitch.com" }
+    ]
+  },
+  "qna": {
+    "display": true,
+    "GISCUS_REPO":"",
+    "GISCUS_REPO_ID":"",
+    "GISCUS_CATEGORY_ID":""
+  }
+}
